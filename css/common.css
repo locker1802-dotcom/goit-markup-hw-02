@@ -91,13 +91,6 @@ strong {
 }
 
 @media (max-width: 760px) {
-  .hero-inner,
-  .footer-inner,
-  .header-inner {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
   .hero-inner {
     gap: 32px;
   }
