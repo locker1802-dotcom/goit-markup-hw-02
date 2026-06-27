@@ -16,6 +16,7 @@
   font-weight: 500;
   color: #2e2f42;
   letter-spacing: 0.02em;
+  line-height: 1.5;
   transition: color 0.3s ease;
 }
 
@@ -30,6 +31,7 @@
   letter-spacing: 0.02em;
   font-style: normal;
   transition: color 0.3s ease;
+  line-height: 1.5;
 }
 
 .contact-link:hover,
@@ -38,13 +40,7 @@
 }
 
 @media (max-width: 760px) {
-  .header-inner {
-    align-items: flex-start;
-  }
-
-  .nav-list,
-  .contact-list {
-    flex-direction: column;
-    gap: 12px;
+  .nav-link {
+    font-size: 14px;
   }
 }

@@ -9,17 +9,12 @@
 
 
 .team-card {
-  flex-direction: column;
-  align-items: center;
   text-align: center;
   background-color: #ffffff;
 }
 
 .team-photo {
-  width: 100%;
-  max-width: 520px;
-  height: auto;
-  }
+}
 
 .team-name {
   font-size: 1.25rem;

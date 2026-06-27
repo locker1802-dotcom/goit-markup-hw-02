@@ -9,7 +9,6 @@
 }
 
 .hero-title {
-  margin: 0;
   font-family: 'Raleway', Arial, sans-serif;
   font-size: 56px;
   line-height: 1.07;
@@ -18,12 +17,12 @@
 }
 
 .hero-button {
-  border: none;
   background-color: #4d5ae5;
   color: #ffffff;
   font-weight: 500;
   transition: background-color 0.3s ease;
   letter-spacing: 0.04em;
+  line-height: 1.5;
 }
 
 .hero-button:hover,
