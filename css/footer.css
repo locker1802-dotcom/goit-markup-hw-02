@@ -21,8 +21,3 @@
   letter-spacing: 0.02em;
 }
 
-@media (max-width: 660px) {
-  .footer-text {
-    font-size: 14px;
-  }
-}
