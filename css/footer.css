@@ -1,30 +1,25 @@
 .site-footer {
-  padding: 24px 0;
-  background-color: #1f2937;
-  color: #f8fafc;
+  background-color: var(--footer-bg);
+  color: var(--footer-text);
 }
 
 .footer-inner {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-  text-align: center;
+  text-align: left;
 }
 
 .footer-logo {
   font-family: 'Raleway', Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 18px;
   font-weight: 700;
-  color: #f8fafc;
+  color: var(--footer-text);
 }
 
 .footer-text {
   margin: 0;
-  color: #cbd5e1;
-  font-size: 0.95rem;
-  line-height: 1.7;
-  max-width: 720px;
-  margin-inline: auto;
+  color: var(--footer-muted);
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 @media (max-width: 660px) {

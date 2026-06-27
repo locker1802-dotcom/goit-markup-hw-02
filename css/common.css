@@ -7,6 +7,9 @@
   --accent-dark: #2563eb;
   --border-color: #d1d5db;
   --shadow: 0 30px 60px rgba(15, 23, 42, 0.08);
+  --footer-bg: #2e2f42;
+  --footer-text: #f8fafc;
+  --footer-muted: #cbd5e1;
 }
 
 * {
