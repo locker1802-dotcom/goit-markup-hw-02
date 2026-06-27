@@ -57,11 +57,6 @@ button {
   cursor: pointer;
 }
 
-.container {
-  width: min(720px, calc(100% - 48px));
-  margin: 0 auto;
-}
-
 .section-title {
   font-family: 'Raleway', Arial, sans-serif;
   font-size: 36px;
