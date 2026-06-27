@@ -3,10 +3,6 @@
   color: #f4f4fd;
 }
 
-.footer-inner {
-  text-align: left;
-}
-
 .footer-logo {
   font-family: 'Raleway', Arial, sans-serif;
   font-size: 18px;
@@ -16,7 +12,6 @@
 }
 
 .footer-text {
-  margin: 0;
   color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
@@ -24,7 +19,5 @@
 }
 
 @media (max-width: 660px) {
-  .footer-text {
-    max-width: 100%;
-  }
+ 
 }
