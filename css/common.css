@@ -25,7 +25,7 @@ body {
   min-height: 100vh;
   font-family: 'Roboto', Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.33;
   color: #2e2f42;
   background-color: #ffffff;
 }
@@ -64,11 +64,12 @@ button {
 
 .section-title {
   font-family: 'Raleway', Arial, sans-serif;
-  font-size: 2rem;
+  font-size: 36px;
   line-height: 1.1;
   font-weight: 700;
   margin: 0 0 24px;
   text-align: left;
+  letter-spacing: 0.02em;
 }
 
 .text-muted {

@@ -15,14 +15,3 @@
   display: flex;
 }
 
-@media (max-width: 760px) {
-  .header-inner {
-    align-items: flex-start;
-  }
-
-  .nav-list,
-  .contact-list {
-    flex-direction: column;
-    gap: 12px;
-  }
-}
